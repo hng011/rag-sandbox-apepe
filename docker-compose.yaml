@@ -1,0 +1,7 @@
+services:
+    sandboxragapepe:
+        image: ragsandboxapp:1.0.0-DEMO
+        build: ./
+        env_file: ./.env
+        ports:
+            - 8501:8501     

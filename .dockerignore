@@ -1,0 +1,8 @@
+.vscode
+__pycache__
+assets
+.env*
+.git*
+.venv
+assets
+buildimage.sh
